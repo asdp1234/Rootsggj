@@ -1,0 +1,23 @@
+# Blender MTL File: 'red tree_alive.blend'
+# Material Count: 2
+
+newmtl LeafSet019_PREVIEW
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_d C:\\Users\\DELL\\Desktop\\kl\\tree_dougles_winter_94d00eb8-0cf9-48ce-a1b2-a64d06e45143\\textures\\LeafSet019_1K_Opacity.jpg
+
+newmtl Red_car_lights_glass
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
